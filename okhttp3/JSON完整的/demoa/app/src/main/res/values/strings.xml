@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demoa</string>
+
+    <string-array name="province">
+        <item>广东</item>
+        <item>北京</item>
+        <item>山东</item>
+        <item>海南</item>
+
+    </string-array>
+</resources>
